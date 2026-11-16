@@ -1,14 +1,7 @@
-# Ubuntu Server Home Lab: From a Blank VM to a Hardened, Monitored Server
+# Ubuntu Server Home Lab.
 
 A step-by-step build of an Ubuntu Server 24.04.2 LTS virtual machine on a Windows 11 laptop with VMware Workstation Pro. It covers installation, remote access, networking, users and permissions, storage, file sharing, a web server, scripting, firewall and SSH hardening, monitoring, SNMP and scheduled automation.
 
-Host
-
-Hypervisor
-
-OS
-
-Focus
 
 ## Contents
 
